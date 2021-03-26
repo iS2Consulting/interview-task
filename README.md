@@ -1,5 +1,5 @@
 # Interview process
-On this link you can read more about [interview process](https://github.com/amirduran/interview-task/blob/master/README2.md).
+On this link you can read more about [interview process](https://github.com/iS2Consulting/interview-task/blob/main/README.md).
 
 # Project task
 
