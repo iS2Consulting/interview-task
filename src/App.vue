@@ -1,15 +1,20 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <h1>You can start with your application here.</h1>
+    <h1>My ToDo List</h1>
+      <ToDoList />
   </div>
 </template>
 
 <script>
+    import ToDoList from '../components/ToDoList.vue'
 
 export default {
-  name: 'app',
-}
+        name: 'app',
+        components: {
+            ToDoList,
+        }
+    }
 </script>
 
 <style>
@@ -21,4 +26,5 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+
 </style>
